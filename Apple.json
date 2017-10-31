@@ -1,0 +1,22 @@
+{  
+   "products":[  
+      {  
+         "id":"1",
+         "name":"Apple i5 Plus Back Cover",
+         "price":"LKR 350.00",
+         "image":"https:\/\/raw.githubusercontent.com\/lashanhimanjana\/Elegance\/master\/Mobiles\/Apple\/apple.png"
+      },
+	{  
+         "id":"2",
+         "name":"Apple i6 Plus Back Cover",
+         "price":"LKR 400.00",
+         "image":"https:\/\/raw.githubusercontent.com\/lashanhimanjana\/Elegance\/master\/Mobiles\/Apple\/apple.png"
+      },
+	{  
+         "id":"3",
+         "name":"Apple i7 Plus Back Cover",
+         "price":"LKR 300.00",
+         "image":"https:\/\/raw.githubusercontent.com\/lashanhimanjana\/Elegance\/master\/Mobiles\/Apple\/apple.png"
+      },
+   ]
+}
