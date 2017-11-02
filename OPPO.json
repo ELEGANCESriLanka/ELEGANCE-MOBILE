@@ -1,0 +1,684 @@
+{
+"products":[
+{
+"id":"1",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"2",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"3",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"4",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"5",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"6",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"7",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"8",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"9",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"10",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"11",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"12",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"13",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"14",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"15",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"16",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"17",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"18",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"19",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"20",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"21",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"22",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"23",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"24",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"25",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"26",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"27",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"28",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"29",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"30",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"31",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"32",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"33",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"34",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"35",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"36",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"37",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"38",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"39",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"40",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"41",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"42",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"43",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"44",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"45",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"46",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"47",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"48",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"49",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"50",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"51",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"52",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"53",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"54",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"55",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"56",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"57",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"58",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"59",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"60",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"61",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"62",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"63",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"64",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"65",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"66",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+},
+{
+"id":"67",
+"ref_no":"OPPO-0001",
+"name":"OPPO F1 S Back Cover",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 350.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F1.jpg"
+},
+{
+"id":"68",
+"ref_no":"OPPO-0002",
+"name":"OPPO 4S Charger",
+"description":"SFTP (SSH File Transfer Protocol) info site for C# and VB.NET developers. ... It's used for secure file transfer between comput",
+"price":"LKR 850.00",
+"image_a":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_b":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg",
+"image_c":"https://raw.githubusercontent.com/ELEGANCESriLanka/ELEGANCE-MOBILE/master/Product%20Images/OPPO_F2.jpg"
+}
+]
+}
